@@ -45,8 +45,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nscottnichols
-#- icon: google-scholar
-- icon: cv
+- icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=D6MjZPEAAAAJ
 - icon: github
