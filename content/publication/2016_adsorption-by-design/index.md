@@ -32,8 +32,11 @@ abstract: We aim to understand how the van der Waals force between neutral adato
 summary: We design a framework for determining the close distance physics between a single uniaxially strained graphene sheet and adorption adatoms from long distance effects within the continuum limit.
 
 tags:
-- Source Themes
-featured: true
+- graphene
+- strained graphene
+- adsorption
+- Lennard-Jones
+featured: false
 
 # links:
 # - name: ""
