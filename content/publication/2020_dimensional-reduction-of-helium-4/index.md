@@ -14,6 +14,9 @@ doi: "10.1103/PhysRevB.102.144505"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
+# Does this page contain LaTeX math? (true/false)
+math = true
+
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -57,7 +60,10 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: '**Adjustable Density of Quasi-1D $^4$He Quantum Monte Carlo simulations of $^4$He in Ar preplated MCM-41** The top panel shows the linear density inside the central core for two temperatures. A range of pressures exists where the density matches liquid $^4$He in the bulk (indicated by the shaded bar). The bottom panel shows solidification of the concentric cylindrical $^4$He layers.'
-  focal_point: ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point: "Top"
   preview_only: false
 
 # Associated Projects (optional).
