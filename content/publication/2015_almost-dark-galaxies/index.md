@@ -29,7 +29,7 @@ doi: "10.1088/0004-6256/149/2/72"
 publishDate: "2017-01-01T00:00:00Z"
 
 # Does this page contain LaTeX math? (true/false)
-math = true
+math: true
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

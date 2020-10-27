@@ -15,7 +15,7 @@ doi: "10.1103/PhysRevB.102.144505"
 publishDate: "2017-01-01T00:00:00Z"
 
 # Does this page contain LaTeX math? (true/false)
-math = true
+math: true
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
