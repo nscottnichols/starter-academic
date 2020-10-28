@@ -20,7 +20,7 @@ external_link: ""
 math: true
 
 image:
-  caption: '**Wetting** Diagrammatic representations of the dependence of adsorbate chemical potential $\\mu^'$ on surface concentration $\\gamma$ (proportional to film thickness) for typical wetting cases as described by Landau and Lifshitz in *Statistical Physics Part 1*.'
+  caption: "**Wetting** Diagrammatic representations of the dependence of adsorbate chemical potential $\\mu^'$ on surface concentration $\\gamma$ (proportional to film thickness) for typical wetting cases as described by Landau and Lifshitz in [*Statistical Physics Part 1*](https://www.google.com/books/edition/Statistical_Physics/VzgJN-XPTRsC)."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -47,7 +47,7 @@ slides: ""
 ---
 
 A doorway to a complicated case for wetting posed as a theoretical curiosity by
-[Landau and Lifshitz](https://www.google.com/books/edition/Statistical_Physics/VzgJN-XPTRsC?hl=en) has been opened. Extension of
+[Landau and Lifshitz](https://www.google.com/books/edition/Statistical_Physics/VzgJN-XPTRsC) has been opened. Extension of
 Dzyaloshinskii--Lifshitz--Pitaevskii (DLP) theory to include the polarization of
 quasi-two-dimensional materials in a layered dielectric sandwich enables
 characterization of a class of [critical wetting phenomena where film growth is

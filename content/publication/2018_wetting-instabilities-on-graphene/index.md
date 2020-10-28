@@ -60,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '**Wetting Instabilities on Graphene** Chemical potential dependence in reference to bulk for thickness of liquid films on suspended graphene. This amazing facsimile of a theoretical possibility posed by Landau and Lifshitz is a case of wetting where a stable film of finite thickness only forms below the zero crossing.'
+  caption: "**Wetting Instabilities on Graphene** Chemical potential dependence in reference to bulk for thickness of liquid films on suspended graphene. This amazing facsimile of a theoretical possibility posed by Landau and Lifshitz is a case of wetting where a stable film of finite thickness only forms below the zero crossing."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
