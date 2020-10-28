@@ -16,6 +16,9 @@ date: "2020-10-06T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+# Does this page contain LaTeX math? (true/false)
+math: true
+
 image:
   caption: '**Dimensional Reduction of Superfluid Helium** A quasi-one-dimensional chain of helium atoms may be achieved through preplating nanoporous materials with rare gases.'
 

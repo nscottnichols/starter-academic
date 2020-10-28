@@ -10,7 +10,7 @@ authors:
 - Gregory Hallenbeck
 - Steven Janowiecki
 - Michael Jones
-- Gyula I. G. J{\'{o}}zsa
+- Gyula I. G. Józsa
 - Rebecca A. Koopmann
 - admin
 - Emmanouil Papastergis

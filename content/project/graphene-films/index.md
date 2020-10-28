@@ -16,6 +16,9 @@ date: "2018-06-08T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+# Does this page contain LaTeX math? (true/false)
+math: true
+
 image:
   caption: '**Wetting** Diagrammatic representations of the dependence of adsorbate chemical potential $\\mu^'$ on surface concentration $\\gamma$ (proportional to film thickness) for typical wetting cases as described by [Landau and Lifshitz in *Statistical Physics Part 1*](https://www.google.com/books/edition/Statistical_Physics/VzgJN-XPTRsC?hl=en).'
 

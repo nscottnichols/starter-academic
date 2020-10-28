@@ -11,6 +11,9 @@ date: "2016-05-06T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+# Does this page contain LaTeX math? (true/false)
+math: true
+
 image:
   caption: '**Anisotropic Quantum Liquids** Uniaxially strain may allow for spatial delocalization of adsorbed adatoms.'
 
