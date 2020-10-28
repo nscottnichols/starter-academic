@@ -18,8 +18,8 @@ bio: My research interests include low dimensional exotic phases of matter, quan
 
 interests:
 - Quantum Monte Carlo
-- Exotic Quantum Phases in Low Dimensional Systems
 - Evolutionary Computation
+- Exotic Quantum Phases in Low Dimensional Systems
 - Machine Learning for the Quantum Many-Body Problem
 
 education:
@@ -70,8 +70,12 @@ user_groups:
 - Visitors
 ---
 
-Nathan Nichols is a graduate student of materials science at the University of Vermont. His research interests include FIXME below
+Nathan Nichols is a graduate student of [materials science](https://www.uvm.edu/materialsciencegrad)
+at the [University of Vermont](https://www.uvm.edu/). His research focuses on
+development of high performance computational algorithms to explore the field of condensed matter
+physics. Special interests include continuous space quantum Monte Carlo algorithms,
+analytic continuation of imaginary-time correlation functions, exotic phases in
+low dimensional systems (especially strained graphene and nanoporous environments),
+and using evolutionary computation and machine learning approaches for the quantum
+many-body problem.
 
-distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
