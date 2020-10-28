@@ -76,7 +76,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-dimensiona-reduction-of-superfluid-helium
+dimensional-reduction-of-superfluid-helium
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
