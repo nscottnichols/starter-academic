@@ -15,7 +15,7 @@ external_link: ""
 math: true
 
 image:
-  caption: '**Anisotropic Quantum Liquids** Uniaxially strain may allow for spatial delocalization of adsorbed adatoms.'
+  caption: "**Anisotropic Quantum Liquids** Uniaxially strain may allow for spatial delocalization of adsorbed adatoms."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

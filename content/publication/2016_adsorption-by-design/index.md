@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '**Anisotropic Quantum Liquids** Spatial dependence of the adsorption potential for a $^4$He adatom ${\\sim}3\\ \\mathrm{\\AA}$ above isotropic and anisotropic graphene. Mechanical strain offers an unprecedented experimentally accessible knob to quantum engineer exotic adsorption, interaction, and scattering phenomena near the surface.'
+  caption: "**Anisotropic Quantum Liquids** Spatial dependence of the adsorption potential for a $^4$He adatom ${\\sim}3\\ \\mathrm{\\AA}$ above isotropic and anisotropic graphene. Mechanical strain offers an unprecedented experimentally accessible knob to quantum engineer exotic adsorption, interaction, and scattering phenomena near the surface."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

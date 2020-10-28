@@ -72,7 +72,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '**Candidate \"Almost Dark\" source** Coherent and well-ordered rotation spanning a projected velocity width of ${\\sim}40$ km s$^-1$ indicates this candidate is a star-forming dwarf irregular galaxy.'
+  caption: "**Candidate \"Almost Dark\" source** Coherent and well-ordered rotation spanning a projected velocity width of ${\\sim}40$ km s$^-1$ indicates this candidate is a star-forming dwarf irregular galaxy."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

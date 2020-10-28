@@ -20,7 +20,7 @@ external_link: ""
 math: true
 
 image:
-  caption: '**Dimensional Reduction of Superfluid Helium** A quasi-one-dimensional chain of helium atoms may be achieved through preplating nanoporous materials with rare gases.'
+  caption: "**Dimensional Reduction of Superfluid Helium** A quasi-one-dimensional chain of helium atoms may be achieved through preplating nanoporous materials with rare gases."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

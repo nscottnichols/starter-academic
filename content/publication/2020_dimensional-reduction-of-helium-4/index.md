@@ -63,7 +63,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '**Adjustable Density of Quasi-1D $^4$He Quantum Monte Carlo simulations of $^4$He in Ar preplated MCM-41** The top panel shows the linear density inside the central core for two temperatures. A range of pressures exists where the density matches liquid $^4$He in the bulk (indicated by the shaded bar). The bottom panel shows solidification of the concentric cylindrical $^4$He layers.'
+  caption: "**Adjustable Density of Quasi-1D $^4$He Quantum Monte Carlo simulations of $^4$He in Ar preplated MCM-41** The top panel shows the linear density inside the central core for two temperatures. A range of pressures exists where the density matches liquid $^4$He in the bulk (indicated by the shaded bar). The bottom panel shows solidification of the concentric cylindrical $^4$He layers."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
