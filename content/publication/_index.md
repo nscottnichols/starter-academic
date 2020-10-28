@@ -8,6 +8,9 @@ title: Publications
 #   4 = Citation
 view: 4
 
+# Enable math on this page?
+math: true
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
