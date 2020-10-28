@@ -72,7 +72,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- graphene-films
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -81,18 +82,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-A doorway to a complicated case for wetting posed as a theoretical curiosity by
-[Landau and Lifshitz](https://www.google.com/books/edition/Statistical_Physics/VzgJN-XPTRsC?hl=en) has been opened. Extension of
-Dzyaloshinskii--Lifshitz--Pitaevskii (DLP) theory to include the polarization of
-quasi-two-dimensional materials in a layered dielectric sandwich enables
-characterization of a class of [critical wetting phenomena where film growth is
-arrested](https://doi.org/10.1103/PhysRevLett.120.236802). When these materials are suspended in a geometry
-where only one side is able to wet (much like a drum left in the rain), film
-growth occurs to a critical finite thickness. Chemical doping, choice of
-material, and even mechanical strain influence the overall wetting behavior.
-Interesting research opportunities arise while studying these wetting phase
-transitions. Can this wetting phenomena be modified to create surface
-instabilities analogous to spinodal dewetting? Do technological implications
-exist for these universal phenomena such as another route to the self-assembled
-patterned surfaces or customizable ultra-thin films?
