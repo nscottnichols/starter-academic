@@ -20,7 +20,7 @@ external_link: ""
 math: true
 
 image:
-  caption: '**Wetting** Diagrammatic representations of the dependence of adsorbate chemical potential $\\mu^'$ on surface concentration $\\gamma$ (proportional to film thickness) for typical wetting cases as described by [Landau and Lifshitz in *Statistical Physics Part 1*](https://www.google.com/books/edition/Statistical_Physics/VzgJN-XPTRsC?hl=en).'
+  caption: '**Wetting** Diagrammatic representations of the dependence of adsorbate chemical potential $\\mu^'$ on surface concentration $\\gamma$ (proportional to film thickness) for typical wetting cases as described by Landau and Lifshitz in *Statistical Physics Part 1*.'
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
