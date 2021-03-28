@@ -77,5 +77,7 @@ physics. Special interests include continuous space quantum Monte Carlo algorith
 analytic continuation of imaginary-time correlation functions, exotic phases in
 low dimensional systems (especially strained graphene and nanoporous environments),
 and using evolutionary computation and machine learning approaches for the quantum
-many-body problem.
+many-body problem. Check out his [GitHub](https://github.com/nscottnichols) and
+[code.delmaestro.org](https://code.delmaestro.org/) for publicly available samples
+of his code.
 

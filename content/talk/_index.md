@@ -7,10 +7,6 @@ title: Recent & Upcoming Talks
 #   3 = Card
 view: 2
 
-# Enable math on this page?
-math: true
-
-
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
